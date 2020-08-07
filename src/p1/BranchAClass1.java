@@ -7,6 +7,7 @@ public class BranchAClass1 {
 		System.out.println("In branchA file 1");
 		System.out.println("In branchA file 1 Modified ");
 		System.out.println("In branchA file 1 Modified by me  ");
+		System.out.println("In branchA file 1 Modified for commit");
 	}
 
 }
