@@ -6,7 +6,9 @@ public class BranchAClass1 {
 		// TODO Auto-generated method stub
 		System.out.println("In branchA file 1");
 		System.out.println("In branchA file 1 Modified ");
-		System.out.println("In branchA file 1 Modified by me  ");
+		System.out.println("In branchA file 1 Modified by me to commit  ");
+		System.out.println("In branchA file 1 Modified by me to commit  ");
+		System.out.println("In branchA file 1 Modified by me to commit  1");
 	}
 
 }
